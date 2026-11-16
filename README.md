@@ -1,3 +1,5 @@
+中文 | [English](README.en.md)
+
 history-clipboard是一款轻量级的 macOS 剪贴板历史管理工具，帮助你保存所有复制过的文本、图片等数据，并按设定的保留期限（1天、3天、5天）自动清理过期内容。你可以随时从历史列表中点击任意条目，将其重新复制到剪贴板，方便重复使用。
 
 功能特性
@@ -33,3 +35,14 @@ View History: All copied items are displayed in reverse chronological order in t
 Set Retention Period: Click the “Retention” button at the bottom of the window and choose 1 day, 3 days, or 5 days (default is 3 days).
 Search Entries: Type keywords into the search box at the top, and the list will filter in real time.
 Recopy: Double‑click or single‑click an entry (depending on your settings) – the content is written back to the system clipboard, and you can paste it (⌘V) in any application.
+
+
+## 许可 / License
+
+Copyright (c) 2026 Zhou Jie。非商业用途及企业内部使用免费；对外销售、收费服务、商业产品集成及商业托管等须事先取得书面授权。联系：[3504264104@qq.com](mailto:3504264104@qq.com)。
+
+Noncommercial and internal business use are free. External sales, paid services, commercial product integration and commercial hosting require prior written authorization from Zhou Jie.
+
+完整条款 / Full terms: [LICENSE](LICENSE). [English translation](LICENSE.en.md)（中文准据 / Chinese governs）. [商业授权 / Commercial licensing](COMMERCIAL-LICENSE.md).
+
+本许可仅覆盖权利人有权许可的项目内容，不改变第三方组件许可。新增许可不追溯撤销先前已合法取得的其他许可；历史发布包不会自动更新。This license does not replace third-party terms or revoke earlier lawfully granted rights; old release archives are not automatically updated.

@@ -1,3 +1,5 @@
+[English](en/design-guidelines.md)
+
 # UI 设计规范 — 历史粘贴板
 
 > 版本: v1.0 | 日期: 2026-07-02

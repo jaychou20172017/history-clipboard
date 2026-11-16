@@ -1,3 +1,5 @@
+[English](CLAUDE.en.md)
+
 # CLAUDE.md — 历史粘贴板项目指引
 
 ## 项目概述

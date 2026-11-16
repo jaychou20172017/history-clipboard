@@ -1,3 +1,5 @@
+[English](en/execution-steps.md)
+
 # 分阶段执行步骤 — 历史粘贴板
 
 > 版本: v1.0 | 日期: 2026-07-02
